@@ -1,0 +1,8 @@
+payload:
+  # Whatsapp
+  - DST-PORT,3478
+  # my xl
+  - DOMAIN,api.myxl.xlaxiata.co.id
+  - DOMAIN-SUFFIX,xl.co.id
+  # remote ultraviewer
+  - DST-PORT,2112
